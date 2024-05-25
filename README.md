@@ -1,2 +1,2 @@
 # College-website
-A multi page college website built using html, css and javascipt.
+College website frontend built using html, css and javascript
